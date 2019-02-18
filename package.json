@@ -1,0 +1,13 @@
+{
+  "name": "getec-electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^4.0.5",
+    "electron-packager": "^13.0.1"
+  }
+}
